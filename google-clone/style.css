@@ -29,7 +29,7 @@ button {
     padding: 0 16px;
     font-size: 14px;
     height: 36px;
-    background-color: #f8f9fa;
+    background-color: lightgrey;
     border: 1px solid #f8f9fa;
     cursor: pointer;
 }
@@ -41,4 +41,8 @@ button:first-of-type {
 
 button::hover {
     cursor: pointer;   
+}
+div {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
